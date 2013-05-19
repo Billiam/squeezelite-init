@@ -10,7 +10,8 @@
 # Description:       Light weight streaming audio player for Logitech's Squeezebox audio server
 ### END INIT INFO
 
-# Author: Me
+# Author: Gerrelt: http://www.raspberrypi.org/phpBB3/viewtopic.php?f=38&t=23108
+# Author: Billiam: https://github.com/Billiam/squeezelite-init
 #
 # Install Instructions
 #
